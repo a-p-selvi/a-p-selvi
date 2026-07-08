@@ -89,8 +89,8 @@
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
 
-](https://www.hackerrank.com/a-p-selvi)
-
+]
+(https://www.hackerrank.com/profile/porutselvia)
 ---
 
 ⭐️ From [a-p-selvi](https://github.com/a-p-selvi)
