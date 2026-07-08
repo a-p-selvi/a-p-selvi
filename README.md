@@ -78,14 +78,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- **Selvi Tailors E-Commerce** – React + Supabase + Express, deployed on GitHub Pages with OTP login & admin panel
-- **CampusFind – Lost & Found System** – React + Node.js + MongoDB Atlas + JWT Auth
-- **JP College Admission Portal** – React admin dashboard with Recharts analytics & role-based access
-
----
-
 ## 📫 Connect with me
 
 [
