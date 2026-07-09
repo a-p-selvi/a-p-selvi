@@ -1,7 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/a-p-selvi/a-p-selvi/main/assets/github_profile_1MP.png" width="220" style="border-radius:50%;" alt="Selvi" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi%20There!%20I'm%20Selvi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
+<h1 align="center">Hi 👋, I'm Selvi</h1>
 <a href="https://github.com/a-p-selvi">
   <img src="https://readme-typing-svg.demolab.com/?lines=Final+Year+B.Sc+IT+Student;Full-Stack+Web+Developer;Exploring+Cloud+%26+DevOps+%F0%9F%9A%80;Building+Real-World+Projects;Always+Learning,+Always+Building!&font=Fira%20Code&center=true&width=600&height=45&color=6366F1&vCenter=true&size=22&pause=1500"/>
 </a>
