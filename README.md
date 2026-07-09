@@ -47,10 +47,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### Cloud & DevOps
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 ### Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -83,9 +79,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🧵 **Selvi Tailors** | Full-stack e-commerce site with OTP login & admin order panel | React · Supabase · Express |
-| 🔍 **CampusFind** | Lost & Found system with JWT auth & image uploads | React · Node.js · MongoDB Atlas |
-| 🎓 **Admission Portal Dashboard** | Analytics dashboard with charts & role-based access | React · Recharts |
+| 🧵 **Lakshu Tailors** | Full-stack e-commerce site with OTP login & admin order panel | React · Supabase · Express |
 | 📝 **Student Feedback System** | Feedback & review management with chatbot integration | React · Node.js |
 
 </div>
