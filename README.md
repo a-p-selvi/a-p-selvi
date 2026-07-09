@@ -19,7 +19,6 @@
 ```yaml
 🎓 Education   : Final Year B.Sc Information Technology, JP College of Arts and Science, Tenkasi, TN
 💻 Focus       : Full-Stack Web Development
-🌱 Currently   : Exploring Cloud & DevOps (AWS, Docker, Linux)
 🛠️ Building    : Full-stack apps with React, Node.js, MongoDB & Supabase
 📫 Reach me    : github.com/a-p-selvi
 ⚡ Fun fact    : I turn ideas into deployed products, end to end!
