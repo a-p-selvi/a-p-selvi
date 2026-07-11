@@ -100,7 +100,7 @@
 <a href="https://github.com/a-p-selvi">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.hackerrank.com/a-p-selvi">
+<a href="https://www.hackerrank.com/porutselvi a">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
