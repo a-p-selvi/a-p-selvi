@@ -59,18 +59,7 @@
 
 <br>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=a-p-selvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a-p-selvi&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-p-selvi&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
-
-<br>
 
 ## 🚀 Featured Projects
 
